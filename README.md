@@ -29,4 +29,4 @@ or, if you want to volatility cluster:
 
 These are only some of the things you can do with Alpaca and Pandas. 
 
-It is important to note that I have almost zero coding experience, and I literally learned how to use VSC and Git by vibecoding. However, I want to take time to thank my teacher Mrs. Susan King, found [here](https://www.linkedin.com/in/susan-king-00335bba/) for her incredible love for teaching and her inspiring outlook on programming. She's retired now, which is simultaneously amazing for her and also a huge loss to all future students.
+It is important to note that I have almost zero coding experience, and I literally learned how to use VSC and Git by vibecoding. However, I want to take time to thank my AP CS A teacher Mrs. Susan King, found [here](https://www.linkedin.com/in/susan-king-00335bba/) for her incredible love for teaching and her inspiring outlook on programming. She's retired now, which is simultaneously amazing for her and also a huge loss to all future students.
