@@ -1,0 +1,5 @@
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31
+python-dateutil>=2.8
+pytz>=2024.1
